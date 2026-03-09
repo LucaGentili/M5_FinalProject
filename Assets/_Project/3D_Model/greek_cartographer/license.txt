@@ -1,0 +1,11 @@
+Model Information:
+* title:	Greek Cartographer
+* source:	https://sketchfab.com/3d-models/greek-cartographer-bb88d85095414b609d032dd02f637104
+* author:	Garrett Mooney (https://sketchfab.com/garymoomoo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Greek Cartographer" (https://sketchfab.com/3d-models/greek-cartographer-bb88d85095414b609d032dd02f637104) by Garrett Mooney (https://sketchfab.com/garymoomoo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Greek Shield Blacksmith
+* source:	https://sketchfab.com/3d-models/greek-shield-blacksmith-8e4376555ede4c8d8fff7abba0d017f7
+* author:	Seppe Verbeken (https://sketchfab.com/CreeperFreaker)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Greek Shield Blacksmith" (https://sketchfab.com/3d-models/greek-shield-blacksmith-8e4376555ede4c8d8fff7abba0d017f7) by Seppe Verbeken (https://sketchfab.com/CreeperFreaker) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

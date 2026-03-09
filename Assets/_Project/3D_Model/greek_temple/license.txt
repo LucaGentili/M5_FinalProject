@@ -1,0 +1,11 @@
+Model Information:
+* title:	Greek Temple
+* source:	https://sketchfab.com/3d-models/greek-temple-6909cd9bf69d4b948141fbab05f5c5a0
+* author:	ThorvaldMortele (https://sketchfab.com/ThorvaldMortele)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Greek Temple" (https://sketchfab.com/3d-models/greek-temple-6909cd9bf69d4b948141fbab05f5c5a0) by ThorvaldMortele (https://sketchfab.com/ThorvaldMortele) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
